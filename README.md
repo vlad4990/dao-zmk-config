@@ -20,3 +20,4 @@ This layout is heavily inspired by [this](https://github.com/aroum/Watchman-layo
 ## Documentation
 
 Answers to frequently asked questions can be found in [FAQ](docs/FAQ.md)
+
